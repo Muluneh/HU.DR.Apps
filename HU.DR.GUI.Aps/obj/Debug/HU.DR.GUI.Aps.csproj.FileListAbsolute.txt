@@ -1,0 +1,81 @@
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DR.GUI.Aps.exe.config
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DR.GUI.Aps.exe
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DR.GUI.Aps.pdb
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csprojResolveAssemblyReference.cache
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.Properties.Resources.resources
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csproj.GenerateResource.Cache
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.exe
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.pdb
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.BitmapSourceInterop.dll
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.GenericImage.dll
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.Primitives2D.dll
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\PixelFormatsConverter.dll
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.BitmapSourceInterop.xml
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.GenericImage.xml
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.Primitives2D.xml
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\PixelFormatsConverter.xml
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DSP.Maths.dll
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DSP.Maths.pdb
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.frmDR.resources
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DR.GUI.Aps.exe.config
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DR.GUI.Aps.exe
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DR.GUI.Aps.pdb
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.BitmapSourceInterop.dll
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.GenericImage.dll
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.Primitives2D.dll
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DSP.Maths.dll
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\PixelFormatsConverter.dll
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DSP.Maths.pdb
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.BitmapSourceInterop.xml
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.GenericImage.xml
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.Primitives2D.xml
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\PixelFormatsConverter.xml
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csprojResolveAssemblyReference.cache
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.frmDR.resources
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.Properties.Resources.resources
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csproj.GenerateResource.Cache
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csproj.CoreCompileInputs.cache
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.exe
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.pdb
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DR.GUI.Aps.exe.config
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DR.GUI.Aps.exe
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DR.GUI.Aps.pdb
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.BitmapSourceInterop.dll
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.GenericImage.dll
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.Primitives2D.dll
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DSP.Maths.dll
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\PixelFormatsConverter.dll
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DSP.Maths.pdb
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.BitmapSourceInterop.xml
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.GenericImage.xml
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.Primitives2D.xml
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\PixelFormatsConverter.xml
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csprojResolveAssemblyReference.cache
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.frmDR.resources
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.Properties.Resources.resources
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csproj.GenerateResource.Cache
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csproj.CoreCompileInputs.cache
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.exe
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.pdb
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DR.GUI.Aps.exe.config
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DR.GUI.Aps.exe
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DR.GUI.Aps.pdb
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.BitmapSourceInterop.dll
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.GenericImage.dll
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.Primitives2D.dll
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DSP.Maths.dll
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\PixelFormatsConverter.dll
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\HU.DSP.Maths.pdb
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.BitmapSourceInterop.xml
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.GenericImage.xml
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\DotImaging.Primitives2D.xml
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\bin\Debug\PixelFormatsConverter.xml
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.frmDR.resources
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.Properties.Resources.resources
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csproj.GenerateResource.cache
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csproj.CoreCompileInputs.cache
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csproj.CopyComplete
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.exe
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.pdb
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csproj.AssemblyReference.cache
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.GUI.Aps\obj\Debug\HU.DR.GUI.Aps.csproj.SuggestedBindingRedirects.cache
