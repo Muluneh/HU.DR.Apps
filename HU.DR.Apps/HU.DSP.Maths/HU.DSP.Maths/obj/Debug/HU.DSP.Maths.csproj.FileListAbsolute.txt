@@ -1,0 +1,23 @@
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\bin\Debug\HU.DSP.Maths.dll
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\bin\Debug\HU.DSP.Maths.pdb
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.dll
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.pdb
+C:\Users\Muluneh\Desktop\Proposal\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.csprojResolveAssemblyReference.cache
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\bin\Debug\HU.DSP.Maths.dll
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\bin\Debug\HU.DSP.Maths.pdb
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.csprojResolveAssemblyReference.cache
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.csproj.CoreCompileInputs.cache
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.dll
+C:\Users\Muluneh\Desktop\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.pdb
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\bin\Debug\HU.DSP.Maths.dll
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\bin\Debug\HU.DSP.Maths.pdb
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.csprojResolveAssemblyReference.cache
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.csproj.CoreCompileInputs.cache
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.dll
+C:\Users\Muluneh\Desktop\Research Project\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.pdb
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\bin\Debug\HU.DSP.Maths.dll
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\bin\Debug\HU.DSP.Maths.pdb
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.csproj.CoreCompileInputs.cache
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.dll
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.pdb
+F:\Research Project-2019\Dani\HU.DR.Apps\HU.DR.Apps\HU.DSP.Maths\HU.DSP.Maths\obj\Debug\HU.DSP.Maths.csproj.AssemblyReference.cache
