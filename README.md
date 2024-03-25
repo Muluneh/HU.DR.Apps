@@ -1,3 +1,3 @@
 # HU.DR.Apps
-Development of Retinal Image Segmentation Algorithm for Detecting Prevalent Markers of Diabetic Retinopathy Using Neural Network![image](https://github.com/Muluneh/HU.DR.Apps/assets/4527520/208af3d7-cd70-4ec1-80b6-ab363422c678)
+Development of Retinal Image Segmentation Algorithm for Detecting Prevalent Markers of Diabetic Retinopathy Using Neural Network!
 The project, developed in C#, encompasses a diverse range of functions utilized in digital image processing. These functions include color space transformation, image segmentation, and image classification. Additionally, the project incorporates essential mathematical functions commonly employed in image-processing tasks...
