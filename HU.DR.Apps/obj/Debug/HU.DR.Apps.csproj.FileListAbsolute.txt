@@ -1,0 +1,8 @@
+C:\Users\mule2\OneDrive\Documents\GitHub\HU.DR.Apps\HU.DR.Apps\bin\Debug\HU.DR.Apps.exe.config
+C:\Users\mule2\OneDrive\Documents\GitHub\HU.DR.Apps\HU.DR.Apps\bin\Debug\HU.DR.Apps.exe
+C:\Users\mule2\OneDrive\Documents\GitHub\HU.DR.Apps\HU.DR.Apps\bin\Debug\HU.DR.Apps.pdb
+C:\Users\mule2\OneDrive\Documents\GitHub\HU.DR.Apps\HU.DR.Apps\obj\Debug\HU.DR.Apps.csproj.AssemblyReference.cache
+C:\Users\mule2\OneDrive\Documents\GitHub\HU.DR.Apps\HU.DR.Apps\obj\Debug\HU.DR.Apps.csproj.SuggestedBindingRedirects.cache
+C:\Users\mule2\OneDrive\Documents\GitHub\HU.DR.Apps\HU.DR.Apps\obj\Debug\HU.DR.Apps.csproj.CoreCompileInputs.cache
+C:\Users\mule2\OneDrive\Documents\GitHub\HU.DR.Apps\HU.DR.Apps\obj\Debug\HU.DR.Apps.exe
+C:\Users\mule2\OneDrive\Documents\GitHub\HU.DR.Apps\HU.DR.Apps\obj\Debug\HU.DR.Apps.pdb

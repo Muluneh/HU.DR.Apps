@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HU.DR.GUI.Aps", "HU.DR.GUI.Aps\HU.DR.GUI.Aps.csproj", "{42944F15-9B86-44BA-82EE-0C63FDABC518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HU.DR.Apps", "HU.DR.Apps\HU.DR.Apps.csproj", "{FF42C178-868D-436C-8A36-0F759F109214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42944F15-9B86-44BA-82EE-0C63FDABC518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42944F15-9B86-44BA-82EE-0C63FDABC518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42944F15-9B86-44BA-82EE-0C63FDABC518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42944F15-9B86-44BA-82EE-0C63FDABC518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF42C178-868D-436C-8A36-0F759F109214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF42C178-868D-436C-8A36-0F759F109214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF42C178-868D-436C-8A36-0F759F109214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF42C178-868D-436C-8A36-0F759F109214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9698251-0E03-4D30-8204-ECDA03D62353}
+	EndGlobalSection
+EndGlobal
