@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HU.DR.GUI.Aps", "HU.DR.GUI.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HU.DR.Apps", "HU.DR.Apps\HU.DR.Apps.csproj", "{FF42C178-868D-436C-8A36-0F759F109214}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C0EFEC00-9AF3-43AB-AAA6-016DC02B5F88}"
+	ProjectSection(SolutionItems) = preProject
+		featureExtraction.png = featureExtraction.png
+		GLM.png = GLM.png
+		HardExudates.png = HardExudates.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
