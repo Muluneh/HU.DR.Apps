@@ -5,11 +5,11 @@ The project, built in C#, includes a wide range of functionalities used in a ret
 
 The C #- based graphic user interface (GUI) allows the user to upload the original retinal image and save the processed image. The user can visualize thestage of the image processing. The user can view the RGB retinal image converted to different color spaces, such as CMYK, YCbCr, and GLM. Some of the Image processing results using the application are shown in the figure below:
 The original RGB retinal image converted to a GLMimage
-<img src="https://github.com/Muluneh/HU.DR.Apps/GLM.png" width=100% height=50%>
+<img src="https://github.com/Muluneh/HU.DR.Apps/blob/main/GLM.png" width=100% height=50%>
 Image processing result after textural feature extraction
-<img src="https://github.com/Muluneh/HU.DR.Apps/featureExtraction.png" width=100% height=50%>
+<img src="https://github.com/Muluneh/HU.DR.Apps/blob/main/featureExtraction.png" width=100% height=50%>
 Applying an artificial neural network to detect the HardExudates
-<img src="https://github.com/Muluneh/HU.DR.Apps/HardExudates.png" width=100% height=50%>
+<img src="https://github.com/Muluneh/HU.DR.Apps/blob/main/HardExudates.png" width=100% height=50%>
 
 
 
